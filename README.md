@@ -7,7 +7,7 @@ This project includes two **synthetic, generated datasets**:
 - `data/customers.csv` — 900 customer records with segment, city and signup date.
 
 ## Tools
-Python (pandas, matplotlib), SQL, and optionally Power BI.
+Python (pandas, matplotlib), SQL, and Power BI.
 
 ## Metric	Result
 Valid orders	: 3,460
